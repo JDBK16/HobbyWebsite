@@ -1,0 +1,59 @@
+html {
+    font-family:'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    margin: 0 0 20px 0;
+    padding: 10px 3px 3px 3px;
+    background-color: palevioletred;
+    width: 100%;
+}
+
+h1 {
+    color: #961c26;
+    text-align: center;
+    font-size: 3.5rem;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+#members {
+    float: left;
+    padding-left: 15vw;
+}
+
+#image {
+    float: right;
+    padding-right: 15vw;
+}
+
+#arthur {
+    width: 25vw;
+}
+
+#chapters {
+    clear: both;
+    padding: 20px 0 20px 10vw;
+}
+
+a:link {
+    color: #961c26;
+}
+
+a:visited {
+    color: purple;
+}
+
+li {
+    font-size: 0.8rem;
+}
+
+table, tr, td {
+    border: solid 2px;
+}
+
+td {
+    padding: 5px;
+}
